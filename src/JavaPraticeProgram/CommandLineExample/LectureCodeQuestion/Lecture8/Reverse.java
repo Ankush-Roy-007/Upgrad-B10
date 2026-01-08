@@ -1,4 +1,4 @@
-package JavaPraticeProgram.CommandLineExample.Lecture8;
+package JavaPraticeProgram.CommandLineExample.LectureCodeQuestion.Lecture8;
 
 public class Reverse {
     public void rev(int rev){

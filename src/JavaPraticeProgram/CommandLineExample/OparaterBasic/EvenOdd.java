@@ -1,4 +1,4 @@
-package OparaterBasic;
+package JavaPraticeProgram.CommandLineExample.OparaterBasic;
 
 import java.util.Scanner;
 

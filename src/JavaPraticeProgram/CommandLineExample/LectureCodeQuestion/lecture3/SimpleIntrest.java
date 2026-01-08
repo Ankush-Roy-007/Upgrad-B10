@@ -1,4 +1,4 @@
-package JavaPraticeProgram.CommandLineExample.lecture3;
+package JavaPraticeProgram.CommandLineExample.LectureCodeQuestion.lecture3;
 
 import java.util.Scanner;
 

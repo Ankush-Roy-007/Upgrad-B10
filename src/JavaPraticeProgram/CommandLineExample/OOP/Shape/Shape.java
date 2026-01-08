@@ -1,8 +1,9 @@
-package JavaPraticeProgram.CommandLineExample.OOP;
+package JavaPraticeProgram.CommandLineExample.OOP.Shape;
 
 public class Shape {
-    public void calculateArea(){
+    public double calculateArea(){
 
+        return 0;
     }
 }
 

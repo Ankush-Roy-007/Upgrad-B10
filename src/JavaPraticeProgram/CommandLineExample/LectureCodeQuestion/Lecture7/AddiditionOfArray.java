@@ -1,4 +1,4 @@
-package JavaPraticeProgram.CommandLineExample.Lecture7;
+package JavaPraticeProgram.CommandLineExample.LectureCodeQuestion.Lecture7;
 
 import java.util.Arrays;
 

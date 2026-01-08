@@ -1,9 +1,23 @@
 package JavaPraticeProgram.CommandLineExample.OOP.Inheritance;
 
-public class Shape {
-    String colour;
+public class Animal {
+    public void eat(){
+        System.out.println("Eating");
+    }
 }
 
-class rectangle extends Shape{
-    
+class Dog extends Animal {
+    public void Barking(){
+        System.out.println("Barking");
+    }
+}
+
+
+class Main{
+    public static void main(String[] args) {
+        Dog dog = new Dog();
+
+        dog.Barking();
+        dog.eat();
+    }
 }

@@ -1,4 +1,4 @@
-package JavaPraticeProgram.CommandLineExample;
+package JavaPraticeProgram.CommandLineExample.Demo;
 
 import java.util.Scanner;
 

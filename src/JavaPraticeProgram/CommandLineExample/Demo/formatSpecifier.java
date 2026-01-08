@@ -1,4 +1,4 @@
-package JavaPraticeProgram.CommandLineExample;
+package JavaPraticeProgram.CommandLineExample.Demo;
 
 public class formatSpecifier {
     public static void main(String[] args) {

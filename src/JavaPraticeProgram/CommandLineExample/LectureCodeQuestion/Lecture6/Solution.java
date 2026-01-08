@@ -1,6 +1,5 @@
-package JavaPraticeProgram.CommandLineExample.Lecture6;
+package JavaPraticeProgram.CommandLineExample.LectureCodeQuestion.Lecture6;
 
-import java.io.*;
 import java.util.*;
 
 public class Solution {

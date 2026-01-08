@@ -1,4 +1,4 @@
-package JavaPraticeProgram.CommandLineExample.Lecture7;
+package JavaPraticeProgram.CommandLineExample.LectureCodeQuestion.Lecture7;
 
 public class ArrayDemo {
     public static void main(String[] args) {

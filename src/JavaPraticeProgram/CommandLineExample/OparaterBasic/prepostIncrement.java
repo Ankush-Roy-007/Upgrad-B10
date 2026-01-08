@@ -1,4 +1,4 @@
-package OparaterBasic;
+package JavaPraticeProgram.CommandLineExample.OparaterBasic;
 
 public class prepostIncrement {
     public static void main(String[] args) {

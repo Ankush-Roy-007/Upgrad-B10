@@ -1,10 +1,11 @@
-package JavaPraticeProgram.CommandLineExample.OOP.Polymorphism;
-
-import JavaPraticeProgram.CommandLineExample.OOP.Shape;
+package JavaPraticeProgram.CommandLineExample.OOP.Shape;
 
 public class Rectangle extends Shape {
+    int length = 5;
+    int width = 6;
     @Override
-    public void calculateArea(){
-            return 3.14 * r , 
+    public double calculateArea(){
+            return  length * width;
     }
 }
+

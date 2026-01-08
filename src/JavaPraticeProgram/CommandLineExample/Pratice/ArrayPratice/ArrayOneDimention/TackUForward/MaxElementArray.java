@@ -1,4 +1,4 @@
-package JavaPraticeProgram.CommandLineExample.Pratice.ArrayPratice.ArrayOneDimention;
+package JavaPraticeProgram.CommandLineExample.Pratice.ArrayPratice.ArrayOneDimention.TackUForward;
 
 public class MaxElementArray {
 

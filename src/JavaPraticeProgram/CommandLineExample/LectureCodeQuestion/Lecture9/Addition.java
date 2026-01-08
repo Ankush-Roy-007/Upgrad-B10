@@ -1,4 +1,4 @@
-package JavaPraticeProgram.CommandLineExample.Lecture9;
+package JavaPraticeProgram.CommandLineExample.LectureCodeQuestion.Lecture9;
 
 public class Addition {
     public void add(int a , int b){

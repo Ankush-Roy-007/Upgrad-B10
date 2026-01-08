@@ -1,7 +1,4 @@
-package JavaPraticeProgram.CommandLineExample.Lecture7;
-import java.util.*;
-
-
+package JavaPraticeProgram.CommandLineExample.LectureCodeQuestion.Lecture7;
 
 
 public class StringCharaterToArray {

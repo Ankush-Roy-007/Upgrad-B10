@@ -1,4 +1,4 @@
-package JavaPraticeProgram.CommandLineExample.Pratice.ArrayPratice.ArrayOneDimention;
+package JavaPraticeProgram.CommandLineExample.Pratice.ArrayPratice.ArrayOneDimention.NormalPratice;
 
 import java.util.Arrays;
 import java.util.Scanner;

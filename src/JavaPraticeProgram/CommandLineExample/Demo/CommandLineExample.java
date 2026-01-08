@@ -1,4 +1,4 @@
-package JavaPraticeProgram.CommandLineExample;
+package JavaPraticeProgram.CommandLineExample.Demo;
 
 class CommandLineExample {
     public static void main(String[] args) {

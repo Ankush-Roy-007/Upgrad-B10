@@ -1,0 +1,129 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "Spice Garden Restaurant",
+      "address": "MG Road, Bengaluru",
+      "phone": "+91-9876543210",
+      "isVegOnly": false,
+      "menu": [
+        {
+          "category": "Starters",
+          "items": [
+            {
+              "id": 101,
+              "name": "Chicken Lollipop",
+              "type": "Non-Veg",
+              "price": 280,
+              "available": true
+            },
+            {
+              "id": 102,
+              "name": "Paneer Tikka",
+              "type": "Veg",
+              "price": 230,
+              "available": true
+            }
+          ]
+        },
+        {
+          "category": "Rice & Biryani",
+          "items": [
+            {
+              "id": 103,
+              "name": "Hyderabadi Chicken Biryani",
+              "type": "Non-Veg",
+              "price": 380,
+              "available": true
+            },
+            {
+              "id": 104,
+              "name": "Mutton Biryani",
+              "type": "Non-Veg",
+              "price": 420,
+              "available": true
+            }
+          ]
+        },
+        {
+          "category": "Breads",
+          "items": [
+            {
+              "id": 105,
+              "name": "Butter Naan",
+              "type": "Veg",
+              "price": 55,
+              "available": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Cafe Brew House",
+      "address": "Indiranagar, Bengaluru",
+      "phone": "+91-9988776655",
+      "isVegOnly": true,
+      "menu": [
+        {
+          "category": "Breakfast",
+          "items": [
+            {
+              "id": 201,
+              "name": "Avocado Toast",
+              "type": "Veg",
+              "price": 210,
+              "available": true
+            },
+            {
+              "id": 202,
+              "name": "Pancake Stack",
+              "type": "Veg",
+              "price": 250,
+              "available": true
+            }
+          ]
+        },
+        {
+          "category": "Snacks",
+          "items": [
+            {
+              "id": 203,
+              "name": "French Fries",
+              "type": "Veg",
+              "price": 120,
+              "available": true
+            },
+            {
+              "id": 204,
+              "name": "Veg Burger",
+              "type": "Veg",
+              "price": 180,
+              "available": true
+            }
+          ]
+        },
+        {
+          "category": "Beverages",
+          "items": [
+            {
+              "id": 205,
+              "name": "Cappuccino",
+              "type": "Veg",
+              "price": 150,
+              "available": true
+            },
+            {
+              "id": 206,
+              "name": "Fresh Orange Juice",
+              "type": "Veg",
+              "price": 130,
+              "available": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

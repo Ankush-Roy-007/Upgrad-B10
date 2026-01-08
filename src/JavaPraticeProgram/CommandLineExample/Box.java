@@ -1,3 +1,5 @@
+package JavaPraticeProgram.CommandLineExample;
+
 public class Box {
     private int length , breath,height;
     public void setDimension(int l , int b , int h){

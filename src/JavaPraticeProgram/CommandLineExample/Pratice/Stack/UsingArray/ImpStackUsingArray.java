@@ -1,4 +1,4 @@
-package JavaPraticeProgram.CommandLineExample.Pratice.Stack;
+package JavaPraticeProgram.CommandLineExample.Pratice.Stack.UsingArray;
 
 public class ImpStackUsingArray{
     public static void main(String[] args) {
