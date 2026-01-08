@@ -83,7 +83,7 @@ public class MajorityElementII {
         count2 = 0;
         for(int i=0; i< nums.length; i++) {
             if(element1 == nums[i]) count1++;
-            if(element2 == nums[i]) count2++;
+            else if(element2 == nums[i]) count2++;
         }
 
         int limit = nums.length / 3;
