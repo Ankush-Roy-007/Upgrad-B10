@@ -18,6 +18,7 @@ public class FirstProgram {
         System.out.println(hashMap.containsKey(4));
         System.out.println(hashMap.containsValue(20));
         System.out.println(hashMap.size());
+        
 
         for(var num : hashMap.entrySet() ){
             System.out.println(num.getKey()+"-->"+num.getValue());
